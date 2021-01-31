@@ -1,4 +1,5 @@
 # qtbr-8a
+ inspired by: https://www.pololu.com/product/960
  Sensor de refletância
 
  Esquemático:
